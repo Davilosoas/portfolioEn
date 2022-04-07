@@ -1,7 +1,5 @@
 function Home() {
     return 
-        <body> 
-        <main>
             <form action="" method="post">
                     <h1>
                         Welcome Back
@@ -38,8 +36,6 @@ function Home() {
                         </a>
                     </section>
             </form>
-        </main>
-    </body>
 }
 
 export default Home;
