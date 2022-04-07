@@ -1,5 +1,11 @@
 function Home() {
-    return (<body> 
+    return (
+    <html>
+        <head>
+            link
+        </head>
+            
+        <body> 
              <main>
                <form action="" method="post">
                     <h1>
@@ -39,8 +45,8 @@ function Home() {
                  </form>
              </main>
         </body>
-
-
+        
+    </html>
     )
 }
 
