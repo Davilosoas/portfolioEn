@@ -1,5 +1,5 @@
 function Home() {
-    return (
+    return 
         <body> 
         <main>
             <form action="" method="post">
@@ -40,8 +40,6 @@ function Home() {
             </form>
         </main>
     </body>
-    
-    )
 }
 
 export default Home;
