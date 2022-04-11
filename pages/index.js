@@ -135,7 +135,7 @@ function home() {
           <p class="float-end mb-1">
             <a href="#">Back to top</a>
           </p>
-          <a href = "mailto: davilosoas@gmail.com" >E-mail</a>
+          <a href = "mailto:davilosoas@gmail.com" >E-mail</a>
         </div>
       </footer>
       
