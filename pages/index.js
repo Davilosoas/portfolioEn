@@ -135,7 +135,12 @@ function home() {
           <p class="float-end mb-1">
             <a href="#">Back to top</a>
           </p>
-          <a href = "mailto:davilosoas@gmail.com" >E-mail</a>
+          <a href = ""><img src ="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png"></img>
+
+          </a>
+          <a href = "mailto:davilosoas@gmail.com" >
+            E-mail
+          </a>
         </div>
       </footer>
       
