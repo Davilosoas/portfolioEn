@@ -33,16 +33,16 @@ function login() {
                             
 
                             <div class="center">
-                                <button class="lgnBtn">
+                                <button class="lgnBtn" action="./login">
                                     ENTRAR
                                 </button>
                             </div>
                             
                             <section class="links">
-                                <a href="/register.html" class="linkRgst">
+                                <a href="/login" class="linkRgst ">
                                     Não tem uma conta?
                                 </a>
-                                <a href="/changePsw.html" class="linkPsw">
+                                <a href="/login" class="linkPsw">
                                     esqueceu sua senha?
                                 </a>
                             </section>
