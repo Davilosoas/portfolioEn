@@ -71,15 +71,15 @@ function home() {
           </div>
         </section>
       
-        <div class=" py-5 w-screen  bg-gray-200 flex flex-row border-4 border-black border-solid justify-center items-center">
+        <div class=" py-5 w-screen space-x-6 bg-gray-200 flex flex-row  justify-center items-center">
 
-            <a class="projectImg bg-cover h-48 w-64  border-2 border-black  border-solid rounded-lg">
+            <a class="projectImg bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./login">
               
             </a>
-            <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
+            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
               
             </a>
-            <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
+            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
               
             </a>
 
