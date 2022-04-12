@@ -34,7 +34,7 @@ function login() {
 
                             <div class="center">
                                 <button class="lgnBtn">
-                                    LOGIN
+                                    ENTRAR
                                 </button>
                             </div>
                             
