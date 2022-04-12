@@ -23,132 +23,133 @@
     --jumbotron-padding-y: 3rem;
   }
   
+.jumbotron {
+  padding-top: var(--jumbotron-padding-y);
+  padding-bottom: var(--jumbotron-padding-y);
+  margin-bottom: 0;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
   .jumbotron {
-    padding-top: var(--jumbotron-padding-y);
-    padding-bottom: var(--jumbotron-padding-y);
-    margin-bottom: 0;
-    background-color: #fff;
+    padding-top: calc(var(--jumbotron-padding-y) * 2);
+    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
   }
-  @media (min-width: 768px) {
-    .jumbotron {
-      padding-top: calc(var(--jumbotron-padding-y) * 2);
-      padding-bottom: calc(var(--jumbotron-padding-y) * 2);
-    }
-  }
-  
-  .jumbotron p:last-child {
-    margin-bottom: 0;
-  }
-  
-  .jumbotron-heading {
-    font-weight: 300;
-  }
-  
-  .jumbotron .container {
-    max-width: 40rem;
-  }
-  
-  footer {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  }
-  
-  footer p {
-    margin-bottom: .25rem;
-  }
-  
-  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
-  html {
-    display:flex;
-    background-size: 100% 100%;
-    height: 100vh;
-    justify-content: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    background-color: rgb(255, 255, 255);
 }
 
-body main {
-    display:flex;
-    height: 90vh;
-    width: 60vw;
-    margin: 7vh 0px;
-    /* background-color: rgb(90, 172, 131); */
-    border-radius: 1%;
-   
-    
+.jumbotron p:last-child {
+  margin-bottom: 0;
 }
 
-form h1 {
-    display:flex;
-    justify-content: center;
-    width: 60vw;
-    margin-bottom: 11vh;
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
+}
+.lgnBody {
+  display:flex;
+  background-size: 100% 100%;
+  height: 100vh;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: rgb(255, 255, 255);
+}
+
+.lgnMain {
+  display:flex;
+  height: 90vh;
+  width: 60vw;
+  margin: 7vh 0px;
+  /* background-color: rgb(90, 172, 131); */
+  border-radius: 1%;
+  
+  
+}
+
+.lgnH1 {
+  display:flex;
+  justify-content: center;
+  width: 60vw;
+  margin-bottom: 11vh;
 }
 
 .lbl {
-    display:block;
-    margin: 0.8vh 0px;
-    color: rgb(88, 88, 88);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+  display:block;
+  margin: 0.8vh 0px;
+  color: rgb(88, 88, 88);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
 }
 .ipt {
-    width: 55vw;
-    border: transparent;
-    background-color: transparent;
-    border-bottom: solid black;
-    outline: none;
+  width: 55vw;
+  border: transparent;
+  background-color: transparent;
+  border-bottom: solid black;
+  outline: none;
 }
 form section {
-    width: 60vw;
-    margin: 4vh 2vw 0px;
+  width: 60vw;
+  margin: 4vh 2vw 0px;
 }
 
 .check {
-    width: 8px;
-    height: 15px;
-    margin: 0.8vh 0px 6vh 2vw;
-    border-radius: 100%;
+  width: 8px;
+  height: 15px;
+  margin: 0.8vh 0px 6vh 2vw;
+  border-radius: 100%;
 }
 
 .checkLbl {
-    font-family:'Times New Roman', Times, serif;
-    color: rgb(88, 88, 88);
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(88, 88, 88);
 }
 
 .lgnBtn {
-    display:flex;
-    width: 20vw;
-    height: 6vh;
-    margin: 6vh 20vw 10vh;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255, 255, 255);
-    border: solid;
+  display:flex;
+  width: 20vw;
+  height: 6vh;
+  margin: 6vh 20vw 10vh;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  border: solid;
 }
 
 .linkRgst {
-    font-family: 'Times New Roman', Times, serif;
-    margin: 7vh 0vw 0vh 2vw;
-    margin-right: auto;
-    font-weight: 500;
-    color: rgb(112, 112, 112);
+  font-family: 'Times New Roman', Times, serif;
+  margin: 7vh 0vw 0vh 2vw;
+  margin-right: auto;
+  font-weight: 500;
+  color: rgb(112, 112, 112);
 }
 
 .linkPsw {
-    display:flex;
-    justify-content: flex-end;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 500;
-    margin: 7vh 6vw 0vh 0vw;
-    margin-left: auto;
-    color: rgb(112, 112, 112);
-   
+  display:flex;
+  justify-content: flex-end;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  margin: 7vh 6vw 0vh 0vw;
+  margin-left: auto;
+  color: rgb(112, 112, 112);
+  
 }
 
 .links {
-    display:flex;
-    
+  display:flex;
+  
 }
 
