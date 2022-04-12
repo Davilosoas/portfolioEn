@@ -83,8 +83,9 @@ function home() {
                     <p class="card-text">descrição</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
-                        
+                        <a href="./login">
+                          <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
+                        </a>
                       </div>
                       
                     </div>
