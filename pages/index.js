@@ -73,14 +73,14 @@ function home() {
       
         <div class=" py-5 w-screen  bg-gray-200 flex flex-row border-4 border-black border-solid justify-center items-center">
 
-            <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
-              <img class="bg-cover h-full w-full" src="https://previews.dropbox.com/p/thumb/ABhdxqPrAL5RvqgyNq6O9P2DyUq8_-0qbcQ1juzjhFYG_w80cMO4lwVbamvgIGMSUmGc3G_I8kpI5dykp49M5AJb6a3cBwjHgXfxF8VHvxTnwNgSQCFe4qi4w4gznpAbCbbw2DIqb5q_irE-ElAza7pMPcBBbKxsXp4v70awew-ztIsVvvRT6HcBohgjztIaqnNXeXYBpQYcl7EazhEPmKxpPmquQJBiA59ibGhW6Jx4Tj64t-eNrAEAIovIRXEvU-rRJt8K4f_Ictd4pLDd2mn3nR9hNqiWZ8RyIUeYkgvbqwSjbAbL8bCVMhMs4SpRmrD7ZvNhbu-tz7arG7hpVZluokUE5KlOu_1QXeKrsFO_wumnLeXW0jFTQvzxndXkYPw/p.png" /> 
+            <a class="projectImg bg-cover h-48 w-64  border-2 border-black  border-solid rounded-lg">
+              
             </a>
             <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
-              <img class="bg-cover h-full w-full" src="" /> 
+              
             </a>
             <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
-              <img class="bg-cover h-full w-full" src="" /> 
+              
             </a>
 
         </div>

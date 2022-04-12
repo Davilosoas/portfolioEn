@@ -5,19 +5,19 @@ function login() {
                 <main class="lgnMain">
                     <form action="" method="post">
                             <h1 class="lgnH1 text-3xl font-bold mt-10">
-                                Welcome Back
+                                Bem Vindo
                             </h1>
 
                             <section>
                                 <label for="name" class="lbl">
-                                    Username*
+                                    Nome de usuário*
                                 </label>
                                 <input type="text" placeholder="Enter your username here." class="ipt"></input>
                             </section>
 
                             <section>
                                 <label for="psw" class="lbl">
-                                    Password*
+                                    Senha*
                                 </label>
                                 <input type="text" placeholder="Enter your password here." class="ipt"></input>
                             </section>
@@ -27,7 +27,7 @@ function login() {
                                 </input>
 
                                 <span class=" text-gray-400">
-                                    remember me
+                                    Lembrar de mim
                                 </span>
                             </section>
                             
@@ -40,10 +40,10 @@ function login() {
                             
                             <section class="links">
                                 <a href="/register.html" class="linkRgst">
-                                    Don't have an account?
+                                    Não tem uma conta?
                                 </a>
                                 <a href="/changePsw.html" class="linkPsw">
-                                    Forgot your password?
+                                    esqueceu sua senha?
                                 </a>
                             </section>
                         
