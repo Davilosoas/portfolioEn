@@ -3,7 +3,7 @@ function home() {
      <html lang="en">
         <head>
           {/* <meta charset="utf-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta name="abrirport" content="width=device-width, initial-scale=1">
           <meta name="description" content="">
           <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
           <meta name="generator" content="Hugo 0.88.1"> */}
@@ -83,7 +83,7 @@ function home() {
                     <p class="card-text">descrição</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                        <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
                         
                       </div>
                       
@@ -99,7 +99,7 @@ function home() {
                     <p class="card-text">descrição</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                        <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
                         
                       </div>
                       
@@ -115,7 +115,7 @@ function home() {
                     <p class="card-text">descrição</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                        <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
                         
                       </div>
                       
@@ -141,7 +141,7 @@ function home() {
 
          
          {/* <a href = "mailto:davilosoas@gmail.com" class="grow-0" >
-            <img class = "" src ="https://ucdfbced92a31ac5c4c93da4095e.previews.dropboxusercontent.com/p/thumb/ABhI6su9JE845F3TUPt-2ZOZwafbPLswbvDcvhryf_nfyg7id2W56Rx76hN1LI8rYci-9JnHSUkYncppQQVjt47O8KBdt6aVxV3-Oor1qKdC7t3qDaqU_1WKN0BUk2bPkbrZ0Nv281MhG9vqI1HmiaGJSccCZas1xDcg_wejAEdstvfQMPldWXalFyh792by2adxKqB9fKexDrcMPUAdhxOKVepxKOt9vV2ZOyqevk9RNKYaXU8MTGm7sUJ0F7WNqjD7muHW2anNwYcd9gkp6zr5UtNwmZ1UIy2-7AFyQlUDT2kiM4WVoATuZCAaIM1sU2cf4d8BQr0ZcBureTduX7SO8rH_lAdOxjK_bb2GVw6hswX_xw-KKeK3dVoLx5P35NYerJ6gjAV5q9508UtVcWSLhw0duRp9QFkhZcSMTYWn-A/p.png"></img>
+            <img class = "" src ="https://ucdfbced92a31ac5c4c93da4095e.preabrirs.dropboxusercontent.com/p/thumb/ABhI6su9JE845F3TUPt-2ZOZwafbPLswbvDcvhryf_nfyg7id2W56Rx76hN1LI8rYci-9JnHSUkYncppQQVjt47O8KBdt6aVxV3-Oor1qKdC7t3qDaqU_1WKN0BUk2bPkbrZ0Nv281MhG9vqI1HmiaGJSccCZas1xDcg_wejAEdstvfQMPldWXalFyh792by2adxKqB9fKexDrcMPUAdhxOKVepxKOt9vV2ZOyqevk9RNKYaXU8MTGm7sUJ0F7WNqjD7muHW2anNwYcd9gkp6zr5UtNwmZ1UIy2-7AFyQlUDT2kiM4WVoATuZCAaIM1sU2cf4d8BQr0ZcBureTduX7SO8rH_lAdOxjK_bb2GVw6hswX_xw-KKeK3dVoLx5P35NYerJ6gjAV5q9508UtVcWSLhw0duRp9QFkhZcSMTYWn-A/p.png"></img>
           </a>
           <div class="grow ">
 
