@@ -4,7 +4,7 @@ function login() {
             <body class="lgnBody"> 
                 <main class="lgnMain">
                     <form action="" method="post">
-                            <h1 class="lgnH1 text-3xl font-bold">
+                            <h1 class="lgnH1 text-3xl font-bold mt-10">
                                 Welcome Back
                             </h1>
 

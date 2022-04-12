@@ -152,4 +152,7 @@ form section {
   display:flex;
   
 }
+.projectImg {
+  background-image: url(https://previews.dropbox.com/p/thumb/ABhCsFTJBmlIYffP5c0vCPSjuMSbCw7eMbiMOkgwxmKwU5yME26xqubOT96P6oiyzZZL4XnI2WnkOfhfRgstYV8QmaUvUuiWIm6CdMR2Q6m9WfO7PaOb7j_yn4GVNoDOazgUewyY154fn4OzWWxLNsAAb-8OOtEbnHDJuRPjg1xiYL6JegBU02tymAP1qJ72qwytqZ8_UcN8y8eK5Y9fffwygISN3t5XuQwFKUQ78ZS-3uJaAAY51sUzlc2--Or4TE8snbgvwGbbdUMbmzYaDHR5YvGscQ4yUM4T1WhY6ydUzOLuaHH2OgXAvum1xX1Puo2vjGfjvF12rmD5CTVaBIeCJ5gY_QE2nJZ6i_Mp7ANTpa-OpICVPI8hgUMUAO9Nnyg/p.png);
+}
 

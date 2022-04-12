@@ -71,62 +71,18 @@ function home() {
           </div>
         </section>
       
-        <div class="album py-5 bg-light">
-          <div class="container">
-      
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-            <div class="col">
-                <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Nome</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-      
-                  <div class="card-body">
-                    <p class="card-text">descrição</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <a href="./login">
-                          <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
-                        </a>
-                      </div>
-                      
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Nome</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-      
-                  <div class="card-body">
-                    <p class="card-text">descrição</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
-                        
-                      </div>
-                      
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Nome</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-      
-                  <div class="card-body">
-                    <p class="card-text">descrição</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">abrir</button>
-                        
-                      </div>
-                      
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
+        <div class=" py-5 w-screen  bg-gray-200 flex flex-row border-4 border-black border-solid justify-center items-center">
+
+            <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
+              <img class="bg-cover h-full w-full" src="https://previews.dropbox.com/p/thumb/ABhdxqPrAL5RvqgyNq6O9P2DyUq8_-0qbcQ1juzjhFYG_w80cMO4lwVbamvgIGMSUmGc3G_I8kpI5dykp49M5AJb6a3cBwjHgXfxF8VHvxTnwNgSQCFe4qi4w4gznpAbCbbw2DIqb5q_irE-ElAza7pMPcBBbKxsXp4v70awew-ztIsVvvRT6HcBohgjztIaqnNXeXYBpQYcl7EazhEPmKxpPmquQJBiA59ibGhW6Jx4Tj64t-eNrAEAIovIRXEvU-rRJt8K4f_Ictd4pLDd2mn3nR9hNqiWZ8RyIUeYkgvbqwSjbAbL8bCVMhMs4SpRmrD7ZvNhbu-tz7arG7hpVZluokUE5KlOu_1QXeKrsFO_wumnLeXW0jFTQvzxndXkYPw/p.png" /> 
+            </a>
+            <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
+              <img class="bg-cover h-full w-full" src="" /> 
+            </a>
+            <a class=" h-48 w-64  border-2 border-black  border-solid rounded-lg">
+              <img class="bg-cover h-full w-full" src="" /> 
+            </a>
+
         </div>
       
       </main>
