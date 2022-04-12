@@ -148,7 +148,7 @@ function home() {
           </div> */}
 
           
-          <a href="#" class=" "  >
+          <a href="#" class="font-bold text-xl hover:decoration-dotted hover:text-gray-400 "  >
             Início
           </a>
           
