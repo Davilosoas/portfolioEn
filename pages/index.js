@@ -131,19 +131,28 @@ function home() {
       </main>
       
       <footer class="text-muted py-5">
-        <div class="container flex">
+        <div class="container flex w-screen items-center ">
           
-          <a href = "https://www.linkedin.com/in/davils/" class="mr-4">
+          
+          <a href = "https://www.linkedin.com/in/davils/" class="grow-0">
             <img src ="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png"></img>
           </a>
-          <a href = "mailto:davilosoas@gmail.com">
+          <div class="grow"> </div>
+
+         
+         {/* <a href = "mailto:davilosoas@gmail.com" class="grow-0" >
             <img class = "" src ="https://ucdfbced92a31ac5c4c93da4095e.previews.dropboxusercontent.com/p/thumb/ABhI6su9JE845F3TUPt-2ZOZwafbPLswbvDcvhryf_nfyg7id2W56Rx76hN1LI8rYci-9JnHSUkYncppQQVjt47O8KBdt6aVxV3-Oor1qKdC7t3qDaqU_1WKN0BUk2bPkbrZ0Nv281MhG9vqI1HmiaGJSccCZas1xDcg_wejAEdstvfQMPldWXalFyh792by2adxKqB9fKexDrcMPUAdhxOKVepxKOt9vV2ZOyqevk9RNKYaXU8MTGm7sUJ0F7WNqjD7muHW2anNwYcd9gkp6zr5UtNwmZ1UIy2-7AFyQlUDT2kiM4WVoATuZCAaIM1sU2cf4d8BQr0ZcBureTduX7SO8rH_lAdOxjK_bb2GVw6hswX_xw-KKeK3dVoLx5P35NYerJ6gjAV5q9508UtVcWSLhw0duRp9QFkhZcSMTYWn-A/p.png"></img>
           </a>
-          <p class="float-end flex mb-1 w-screen justify-end">
-            <a href="#">
-              <img class="items-center" src="https://previews.dropbox.com/p/thumb/ABhvuD8WF84vfn8WqFAaRUeJJ0qsF1nNglHVaGdruR1vEC06ic_Stg_0KHJdLy_-lgNR7p62qyX3QWbc3FMYHNohGgp-a-Id1HxAlbDPKGQ7U_89qSeml6UCV6vMuOTnESa5Q4u_u38ArxIu8ceX_67HGNGCMjJ6caVhfnoCD1JUM5FfyRJRyQlQJpSNEFWdWO9ub0LGwjgz3J3tke7a_JXi5lm7C8ucsu5GFSMvqC9nuRR8CsZ5Z2Fl_aVXs8aX8SwVOHL39r1NCMCk0PJqPM2j-lhG_nDM2P31uYFVFJA1dIPlaps0NHflaUIh-DGt7NnzmUfTYojImGrerrwTKrezvNlbk0iijb6x4j972U0PpfOGnjmOcJ2aqtJGaYT1BDE/p.png"></img>
-            </a>
-          </p>
+          <div class="grow ">
+
+          </div> */}
+
+          
+          <a href="#" class=" "  >
+            Início
+          </a>
+          
+           
         </div>
       </footer>
       
