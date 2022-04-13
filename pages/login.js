@@ -4,22 +4,22 @@ function login() {
             <body class="lgnBody"> 
                 <main class="lgnMain">
                     <form action="" method="post">
-                            <h1 class="lgnH1 text-5xl font-bold mt-10">
-                                Bem-vindo
+                            <h1 class="lgnH1 text-3xl font-bold mt-10">
+                                Welcome Back
                             </h1>
 
                             <section>
                                 <label for="name" class="lbl">
-                                    Nome de usuário*
+                                    Username*
                                 </label>
-                                <input type="text" placeholder="Digite seu nome de usuário aqui!" class="ipt"></input>
+                                <input type="text" placeholder="Enter your username here." class="ipt"></input>
                             </section>
 
                             <section>
                                 <label for="psw" class="lbl">
-                                    Senha*
+                                    Password*
                                 </label>
-                                <input type="text" placeholder="Digite sua senha aqui!" class="ipt"></input>
+                                <input type="text" placeholder="Enter your password here." class="ipt"></input>
                             </section>
                             <section class="flex items-center  mt-0">
                                 <input type="checkbox" class="">
@@ -27,23 +27,23 @@ function login() {
                                 </input>
 
                                 <span class=" text-gray-400">
-                                    Lembrar de mim
+                                    remember me
                                 </span>
                             </section>
                             
 
                             <div class="center">
-                                <button class="lgnBtn" action="./login">
-                                    ENTRAR
+                                <button class="lgnBtn">
+                                    LOGIN
                                 </button>
                             </div>
                             
                             <section class="links">
-                                <a href="/login" class="linkRgst ">
-                                    Não tem uma conta?
+                                <a href="/register.html" class="linkRgst">
+                                    Don't have an account?
                                 </a>
-                                <a href="/login" class="linkPsw">
-                                    esqueceu sua senha?
+                                <a href="/changePsw.html" class="linkPsw">
+                                    Forgot your password?
                                 </a>
                             </section>
                         

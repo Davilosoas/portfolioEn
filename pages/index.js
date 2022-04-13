@@ -62,9 +62,11 @@ function home() {
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-              <h1 class="fw-light">Bem-vindo ao meu Portfolio</h1>
+              <h1 class="fw-light">
+                Welcome to my portfolio
+                </h1>
               <p class="lead text-muted">
-                Aqui você encontrará um pouco do meu trabalho. 
+                Here you will find some of my work. 
               </p>
               
             </div>
@@ -91,7 +93,7 @@ function home() {
         <div class="container flex w-screen items-center ">
           
           
-          <a href = "https://www.linkedin.com/in/davils/" class="grow-0">
+          <a href = "https://www.linkedin.com/in/davils/?locale=en_US" class="grow-0">
             <img src ="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png"></img>
           </a>
           <div class="grow"> </div>
@@ -106,7 +108,7 @@ function home() {
 
           
           <a href="#" class="font-bold text-xl hover:decoration-dotted hover:text-gray-400 "  >
-            Início
+            back to the top
           </a>
           
            
