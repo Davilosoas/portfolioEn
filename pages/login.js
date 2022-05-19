@@ -33,7 +33,7 @@ function login() {
                             
 
                             <div class="center">
-                                <button class="lgnBtn disabled:opacity-75">
+                                <button class="lgnBtn read-only:bg-blue-700">
                                     LOGIN
                                 </button>
                             </div>
