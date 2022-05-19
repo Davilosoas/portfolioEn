@@ -33,16 +33,16 @@ function login() {
                             
 
                             <div class="center">
-                                <button class="lgnBtn">
+                                <button class="lgnBtn disabled:opacity-75">
                                     LOGIN
                                 </button>
                             </div>
                             
                             <section class="links">
-                                <a href="/register.html" class="linkRgst">
+                                <a  class="linkRgst">
                                     Don't have an account?
                                 </a>
-                                <a href="/changePsw.html" class="linkPsw">
+                                <a  class="linkPsw">
                                     Forgot your password?
                                 </a>
                             </section>
