@@ -39,10 +39,10 @@ function login() {
                             </div>
                             
                             <section class="links">
-                                <a  class="linkRgst">
+                                <a href="https://davioliveira.vercel.app/" disabled class="linkRgst">
                                     Don't have an account?
                                 </a>
-                                <a  class="linkPsw">
+                                <a href="https://davioliveira.vercel.app/" disabled class="linkPsw">
                                     Forgot your password?
                                 </a>
                             </section>
