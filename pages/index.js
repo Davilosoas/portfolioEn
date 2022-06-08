@@ -1,13 +1,13 @@
 function home() {
     return( 
-     <html lang="en">
+     <html lang="en" class="overflow-x-hidden">
         <head>
           {/* <meta charset="utf-8">
           <meta name="abrirport" content="width=device-width, initial-scale=1">
           <meta name="description" content="">
           <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
           <meta name="generator" content="Hugo 0.88.1"> */}
-          <title>My portfolio</title>
+          <title>Welcome to my portfolio</title>
           <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"></link>
           <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/"></link>
       
@@ -34,7 +34,7 @@ function home() {
       
           
         </head>
-        <body>
+        <body >
           
       <header>
         <div class="collapse bg-dark" id="navbarHeader">
@@ -62,11 +62,11 @@ function home() {
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-              <h1 class=" font-medium">
+              <h1 class="fw-light">
                 Welcome to my portfolio
                 </h1>
               <p class="lead text-muted">
-                Here you will find some of my work. 
+                Here you will find some of my work.
               </p>
               
             </div>
@@ -75,10 +75,10 @@ function home() {
       
         <div class=" py-5 w-screen space-x-6 bg-gray-200 flex flex-row  justify-center items-center">
 
-            <a class="projectImg bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./login">
+            <a class="projectImg bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./login"><img class="bg-cover h-full w-full"src="https://previews.dropbox.com/p/thumb/ABjAy04fwTBLWYKuq9kObOsCXgwTyR6ucCv59oUX7ASf5T-437h6sp0BKYR1YOossjKewNtEJh9ylI4K0NtHt0tIm_CwbuwMi1Y7DZMNxQWitEXHGlijyGew5qQJW1-ylL7vELH_JYZqaYRUO-jEx2MLZhZ6QNwiTn56j8H-qcqmPiuZyRlgDmwWFyF9hjFwNhwi2eN24r8P0WXwEUBdzD4jNAS1vafhhEUrvnXswFMX7afHgCUV7CdE_Yf3nGFpOUSj0CzSOo7xlR5VoxicfIZ3_fwdaI3RI0sr1rTnMKL2dKnzTcPqdZaSpNlNvqCyOfRf2BfM1EQV4ksYvJhh0eL21B9G1cc8m0R3Syilnl1XxoU8PPO7SA94YXOaqfpJgp0/p.png"/>
               
             </a>
-            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
+            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./ladyKaty"><img class="object-fill bg-cover h-full w-full" src="https://previews.dropbox.com/p/thumb/ABjvtn3LmRNT2UPDhTVh0JnZdT3aVH5Zmki1Fv1ZRsQXiHXUP1dsQjQtfbbYQUqY-PEcfqyzDQPUbSOgdJJQDcOtJTYkJMiUk2Lop2BG6PXx0lKiwiTKHhbqhFZ5fE6w2Wwxfa-mkFDWqVRX4XcDvVAO6dv-qC3H_B2JyrIiy0FQRKaVBdphQwqOc_CUbOG3QV7UVF7ckPq8DLG0tHh8K4bLOKX67h2D5WkSjCGxUwdUU6miNE7xWKe2XcBtNieDrPIU8Mz4wx2fE729H7--JoYf9FwZ7B344VOWg0J6LeVUw_rF2C8YArPNitHoQjtXjZEFXClKMCDn1L6-Y7lzyc_xXMFV4J8IxidmzEAqHzdq1zkNzQkJJbeYn0iko3pjWp4/p.png"/>
               
             </a>
             <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
@@ -93,8 +93,8 @@ function home() {
         <div class="container flex w-screen items-center ">
           
           
-          <a href = "https://www.linkedin.com/in/davils/?locale=en_US" class="grow-0">
-            <img src ="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png"></img>
+          <a href = "https://www.linkedin.com/in/davils/" class="grow-0">
+            <img class="hover:brightness-75"src ="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png"></img>
           </a>
           <div class="grow"> </div>
 
