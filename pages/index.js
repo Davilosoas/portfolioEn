@@ -62,10 +62,10 @@ function home() {
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-              <h1 class="fw-light">
+              <h1 class="fw-light cursor-default">
                 Welcome to my portfolio
                 </h1>
-              <p class="lead text-muted">
+              <p class="lead text-muted cursor-default">
                 Here you will find some of my work.
               </p>
               
@@ -75,10 +75,10 @@ function home() {
       
         <div class=" py-5 w-screen space-x-6 bg-gray-200 flex flex-row  justify-center items-center">
 
-            <a class="projectImg bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./login"><img class="bg-cover h-full w-full"src="https://previews.dropbox.com/p/thumb/ABjAy04fwTBLWYKuq9kObOsCXgwTyR6ucCv59oUX7ASf5T-437h6sp0BKYR1YOossjKewNtEJh9ylI4K0NtHt0tIm_CwbuwMi1Y7DZMNxQWitEXHGlijyGew5qQJW1-ylL7vELH_JYZqaYRUO-jEx2MLZhZ6QNwiTn56j8H-qcqmPiuZyRlgDmwWFyF9hjFwNhwi2eN24r8P0WXwEUBdzD4jNAS1vafhhEUrvnXswFMX7afHgCUV7CdE_Yf3nGFpOUSj0CzSOo7xlR5VoxicfIZ3_fwdaI3RI0sr1rTnMKL2dKnzTcPqdZaSpNlNvqCyOfRf2BfM1EQV4ksYvJhh0eL21B9G1cc8m0R3Syilnl1XxoU8PPO7SA94YXOaqfpJgp0/p.png"/>
+            <a class="projectImg bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./login"><img class="bg-cover h-full w-full"src="https://previews.dropbox.com/p/thumb/ABikRrAnnyZdOV269vNsOtMeyO7TfL9h0EyA9h3lOCETdDHnUll4WXqdfbKYwr9cROrFa2rOkdHzcGppGkP7xNK6lELGVvyMsUCsRccyPD41HW098JFhVZK_5Xl64s-npBCYEsxPzzEVa01DBw3cqIPniD5WJrCnG8nPspNoJGb1NvzzVnlGF-6dUnAIS3qkvDdBPWz71tDj6QjljV-vLk6nJ3hQw6Lh7YZcBfJhBa9k6fC9fwOqbK39iqUza-8w_0DXgR5zq0FOVkW8xNphV4vw5Jyvuj371ZfRMnWKK8KKtvOxhyyO1A8xHk30p8NstWf0-udcFgKUy5nvJuHu5F195vvv6ZIkTkjmQhluodW6pzDHIFNArcuF494y9tNefXY/p.png"/>
               
             </a>
-            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./ladyKaty"><img class="object-fill bg-cover h-full w-full" src="https://previews.dropbox.com/p/thumb/ABjvtn3LmRNT2UPDhTVh0JnZdT3aVH5Zmki1Fv1ZRsQXiHXUP1dsQjQtfbbYQUqY-PEcfqyzDQPUbSOgdJJQDcOtJTYkJMiUk2Lop2BG6PXx0lKiwiTKHhbqhFZ5fE6w2Wwxfa-mkFDWqVRX4XcDvVAO6dv-qC3H_B2JyrIiy0FQRKaVBdphQwqOc_CUbOG3QV7UVF7ckPq8DLG0tHh8K4bLOKX67h2D5WkSjCGxUwdUU6miNE7xWKe2XcBtNieDrPIU8Mz4wx2fE729H7--JoYf9FwZ7B344VOWg0J6LeVUw_rF2C8YArPNitHoQjtXjZEFXClKMCDn1L6-Y7lzyc_xXMFV4J8IxidmzEAqHzdq1zkNzQkJJbeYn0iko3pjWp4/p.png"/>
+            <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer" href="./ladyKaty"><img class="object-fill bg-cover h-full w-full" src="https://previews.dropbox.com/p/thumb/ABiBzN3S-qHbMbq2QMTw1ih5IcFd3a4g8BGFCMdaXg9Jn3I_U0A-WUuv_uULHleRGQ81SQFNwfzUx8wWO9uhWemEhY8JcqKUQYua5-snGyx2M5wwVd-5rC3CFk7_QEU58fwzIk_bQQnmlCxrLyAJT_wrGYYrAYaCLNxUAIx_Pr3sUuTpb1RgDgLAeuyVacMRxuRVkF8IxZWpUN2uBPHwBXkOgP-PUdl2Fj1r2m9tfh3twir5kOchX4Pel-X8KWLCIbfJptdaXsMA_qvjNcBpjfdhFlUHwnQs_QOEjRKHWDQWidXEcPajQgENO6S-rPO3x25Mz0BebzBgay6ALWuLFZWNj27cmu6inxxIRgdFaNv699F_cU16rKfaRt4yQ7C6-wM/p.png"/>
               
             </a>
             <a class=" bg-cover h-48 w-64  border-4 border-black  border-solid rounded-lg hover:brightness-50 hover:cursor-pointer">
